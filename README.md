@@ -15,7 +15,7 @@ The Inspiration for this is unlike "AIATSS" -my other project- is much less pers
 
 ![SWTS preview](SWTS1.png)
 
-**The Bin Mechanism⚙️:**
+**The Bin Mechanism📐:**
 
 *The bin:* The bin has two sliding doors that open upon detecting an entity(for eg, a human or a waste) in its proximity and close when the trash is thrown into the bin in the trash inters into a section where it detects what type of trash it is it.
 
