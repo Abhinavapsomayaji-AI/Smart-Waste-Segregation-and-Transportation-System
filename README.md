@@ -31,4 +31,4 @@ The Inspiration for this is unlike "AIATSS" -my other project- is much less pers
 
 **Recyclable🟧**-Colour coded as Orange
 
-**Hazardous🟥**-Colour coded as Red. I put the chances of it appearing in the simulation as 0.0000000000001 as it is very rear for a hazardous item to really come in a public place. 
+**Hazardous🟥**-Colour coded as Red. I put the chances of it appearing in the simulation as 0.0000000000001 as it is very rare for a hazardous item to really come in a public place. 
