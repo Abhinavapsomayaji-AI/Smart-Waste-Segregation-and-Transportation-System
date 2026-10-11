@@ -9,5 +9,5 @@ The Inspiration for this is unlike "AIATSS" -my other project- is much less pers
 
 **Pygame for visualisation**: As I don't have suffecient time or resources to do it physically I used pygame(an open source free python library) to visualize or immitate the physical environment and show how this works. Due to its fast 2D object modeling, easily understandeble visual object moddeling and ease of loading through python made it most desirable for this project. 
 
-##**Layout and Object Modeling**
+## **Layout and Object Modeling**
 **Layout:**Nothing special here just a normal white background with bin and different waste type slots at the bottom(Solid, Liquid, Hazardous,etc)
