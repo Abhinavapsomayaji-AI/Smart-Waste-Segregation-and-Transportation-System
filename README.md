@@ -11,4 +11,4 @@ The Inspiration for this is unlike "AIATSS" -my other project- is much less pers
 
 ## **Layout and Object Modeling**
 **Layout:** Nothing special here just a normal white background with bin at the centre and different waste type slots at the bottom(Solid, Liquid, Hazardous,etc)
-![SWTS preview]()
+![SWTS preview](SWTS1)
