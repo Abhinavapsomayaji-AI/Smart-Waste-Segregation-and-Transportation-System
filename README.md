@@ -11,17 +11,21 @@ The Inspiration for this is unlike "AIATSS" -my other project- is much less pers
 
 ## **Layout and Object Modeling📐**
 
-**Layout:** Nothing special here just a normal white background with bin at the centre and different waste type slots at the bottom(Solid, Liquid, Hazardous,etc)
+### **Layout:** ### 
+Nothing special here just a normal white background with bin at the centre and different waste type slots at the bottom(Solid, Liquid, Hazardous,etc)
 
 ![SWTS preview](SWTS1.png)
 
-**The Bin Mechanism⚙️⚙️:**
+### **The Bin Mechanism⚙️⚙️:** ###
 
-*The bin:* The bin has two sliding doors that open upon detecting an entity(for eg, a human or a waste) in its proximity and close when the trash is thrown into the bin in the trash inters into a section where it detects what type of trash it is it.
+<ins> **The bin:** </ins>  
+The bin has two sliding doors that open upon detecting an entity(for eg, a human or a waste) in its proximity and close when the trash is thrown into the bin in the trash inters into a section where it detects what type of trash it is it.
 
-*The Scanner:* The scanner is a first real part of this which gives it the name "Smart". The scanner detects what type of trash the thrown is and gives the intput to the computer in the bin which sorts the trash according to its type.
+<ins> **The Scanner:** </ins> <br/>
+The scanner is a first real part of this which gives it the name "Smart". The scanner detects what type of trash the thrown is and gives the intput to the computer in the bin which sorts the trash according to its type.
 
-*The Trash:* The trash is colour codded according to what type of trash it is
+<ins> **The Trash:** </ins> <br/> 
+The trash is colour codded according to what type of trash it is
 
 **Solid🟨**-Colour coded as yellow 
 
@@ -33,7 +37,8 @@ The Inspiration for this is unlike "AIATSS" -my other project- is much less pers
 
 **Hazardous🟥**-Colour coded as Red. I put the chances of it appearing in the simulation as 0.0000000000001 as it is very rare for a hazardous item to really come in a public place. 
 
-*The Visitor:* This an entity that drops the trash into the bin. Initially while I was making this project I took the entity as a person throwing trash into the bin but later I realized in a real world senrario it will take a long time for this kind of a machine to bring in public places like parks, hotels, etc due its it sheer setup costs and maintance costs so I want a vistor to be of two types one for large scale and small scale. 
+<ins> **The Visitor:** </ins> <br/>
+This is an entity that drops the trash into the bin. Initially while I was making this project I took the entity as a person throwing trash into the bin but later I realized in a real world senrario it will take a long time for this kind of a machine to bring in public places like parks, hotels, etc due its it sheer setup costs and maintance costs so I want a vistor to be of two types one for large scale and small scale. 
 
 **Visitor for Large scale:** Usage of this in large scale means in Factories, Material Recovery Facilities (MRFs) or Waste Sorting Plants, or recycle centres where instead of each individual area all the trash comes to one area and get sorted. Although in the final pygame simulation it dosen't look like it is in large scale, even for large scale implementation in is a very identical process to this. Instead of the visitor being a person we can take it as conveyor belt or robots. Of course there would be more trash and multiple of these will work at the same time. Usage of this in large scale will make waste disposal more envieromentally friendly, saves time, and room for further recycling and innovative waste disposal increases.Ultimately, making waste disposal more efficient.   
 
