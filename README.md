@@ -46,5 +46,7 @@ This is an entity that drops the trash into the bin. Initially while I was makin
 
 ## Workflow of the System 🧠🚀
 
-![SWTS preview](SWTS.gif)
+<p align="center">
+  <img src="./assets/SWTS.gif" width="500" alt="SWTS Workflow">
+</p>
 
