@@ -46,6 +46,22 @@ This is an entity that drops the trash into the bin. Initially while I was makin
 
 ## Workflow of the System 🧠🚀
 
+### Here is GIF showing how it works:
+
 ![SWTS preview](SWTS.gif)
+
+### <ins>The end-to-end operational flow of the system works as follows:</ins>
+
+
+**The Entity/Visitor approach and Proximity Detection:** <br/>
+As the visitor or automated transport mechanism approaches the bin carrying the trash enter the bin's entry zone(the minimum distance close enough from the bin that the detectors can determine that the entity is about to throw the trash), the proximity sensors in the bin trigger the dual sliding doors to open automatically.
+
+**Diposit of Waste and Scanning:** <br/>
+When the trash enters into the bin the sliding doors close. After entering the trash enters into a small compartment where where would be scanners(ideally CV system that were trained rigorously on different waste types); these scanners scan the trash type(in this only kept to 5 for simplicity) and gives the output on which type of trash it is.
+
+**Classification of trash:** <br/>
+Based on the output given by the scanner the waste gets sorted in its respective waste type in their respective compartments. For example, if the waste type is solid(represented by yellow in SWTS)the scanner gives the output as solid and it gets sorted into "Solid" waste type compartment.     
+
+
 
 
