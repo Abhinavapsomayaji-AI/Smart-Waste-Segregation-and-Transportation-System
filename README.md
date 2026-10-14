@@ -52,7 +52,6 @@ This is an entity that drops the trash into the bin. Initially while I was makin
 
 ### <ins>The end-to-end operational flow of the system works as follows:</ins>
 
-
 **The Entity/Visitor approach and Proximity Detection:** <br/>
 As the visitor or automated transport mechanism approaches the bin carrying the trash, entering the bin's entry zone(the minimum distance close enough from the bin that the detectors can determine that the entity is about to throw the trash), the proximity sensors in the bin trigger the dual sliding doors to open automatically.
 
