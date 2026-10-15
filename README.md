@@ -70,5 +70,6 @@ This just a basic representation and a fraction of the capability of this system
 **Large Scale Implementation:** </br> Like I mentioned earlier, In current economy this the most fesible option. Although it dosen't look like it in the pygame, the large scale implemention is almost similar to this. We just need to add more capacity to this and more bins working simultaneously. 
 
 **Detection and Separation of Mixed trash**</br>
+In a real world application of this the waste thrown always won't be of one particular type, infact it is very rare to to have waste of one particular type. For example, If the waste thrown is half drank coke which is liquid in a tin can which is solid. I want to add a mechanism that separate mixed trash. This can be done by using various filtering sytems, a robotic hand, etc.  
 
 
