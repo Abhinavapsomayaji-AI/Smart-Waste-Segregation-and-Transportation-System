@@ -61,6 +61,10 @@ When the trash enters into the bin the sliding doors close. After entering the t
 **Classification of trash:** <br/>
 Based on the scanner's output, the system routes the item to its designated compartment. For example, if the waste type is identified as solid(represented by yellow in SWTS), it gets directly sorted into "Solid" waste type compartment.     
 
+## Future Improvements/ Future of the project 📈
 
+This just a basic representation and a fraction of the capability of this system and there is a lot more work to do. So as a high school student I don't have much time or resouces to further improve the project but that doesn't stop me form thinking of new ideas to take this system to the next level which I can implement in the future or whenever I get time. Here are a few of those:
+
+**Ability to understand unpredictability:** Of course in small scale application of this system the visitors won't come in a systematic way. For instance, One may come close to the bin's proximity but not for throwing trash but the bin may interpret that the person wants to throw the trash in and trigger the sliding doors. This unpredictablity of humans may make trigger the falsely opening the sliding doors particularly in crowed areas and make thebin waste a lot of electrcity and may damage it. So I want to make the bin understand if the human is coming near the bin why is he coming. This can be done by many CV by training it on various visual/physical attributs such as is the person carring any trash is he/she looking at the bin,etc and from this CV the bin's computer can run an algorithem and determine the porpose of the human proximity 
 
 
